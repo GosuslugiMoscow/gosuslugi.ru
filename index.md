@@ -9,6 +9,6 @@
 </head>
 <body>
 <style> header { display: none; } </style>
-<img src="githubPagesImg.png" alt="Girl in a jacket" width="354" height="455">
+<img src="sanadin.png" alt="Girl in a jacket" width="354" height="455">
 </body>
 </html>
